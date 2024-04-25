@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Yohan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\willi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Microsoft Visual Studio\\Prog 2\\ExerciceAvionEncapsuler\\Bibliotheque\\Bibliotheque.csproj",
+      "projectUniqueName": "E:\\École\\Session 2\\Programmation 2\\NotreIncroyableAvion\\Bibliotheque\\Bibliotheque.csproj",
       "projectName": "Bibliotheque",
-      "projectPath": "E:\\Microsoft Visual Studio\\Prog 2\\ExerciceAvionEncapsuler\\Bibliotheque\\Bibliotheque.csproj",
-      "packagesPath": "C:\\Users\\Yohan\\.nuget\\packages\\",
-      "outputPath": "E:\\Microsoft Visual Studio\\Prog 2\\ExerciceAvionEncapsuler\\Bibliotheque\\obj\\",
+      "projectPath": "E:\\École\\Session 2\\Programmation 2\\NotreIncroyableAvion\\Bibliotheque\\Bibliotheque.csproj",
+      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+      "outputPath": "E:\\École\\Session 2\\Programmation 2\\NotreIncroyableAvion\\Bibliotheque\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Yohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -45,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -71,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
