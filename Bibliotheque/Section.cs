@@ -11,5 +11,7 @@ namespace Bibliotheque
     /// </summary>
     public class Section : Rangee
     {
+        private List<Siege> _sieges;
+        private string _position;
     }
 }

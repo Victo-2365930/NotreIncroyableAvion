@@ -11,5 +11,7 @@ namespace Bibliotheque
     /// </summary>
     public class Siege : Section
     {
+        private Passager _passager;
+        private char _lettre;
     }
 }

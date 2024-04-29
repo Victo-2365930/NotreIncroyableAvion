@@ -11,5 +11,6 @@ namespace Bibliotheque
     /// </summary>
     public class Habitacle : Avion
     {
+        private List<Range> _rangees;
     }
 }
