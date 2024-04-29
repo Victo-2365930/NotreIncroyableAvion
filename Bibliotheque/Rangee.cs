@@ -11,5 +11,9 @@ namespace Bibliotheque
     /// </summary>
     public class Rangee : Habitacle
     {
+        private List<Section> _sections;
+        private string _classe;
+        private uint _numeroRangee;
+
     }
 }
