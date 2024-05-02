@@ -9,7 +9,7 @@ namespace Bibliotheque
     /// <summary>
     /// Un siège de la section
     /// </summary>
-    public class Siege : Section, IComparable<Siege>, IEquatable<Siege>
+    public class Siege : IComparable<Siege>, IEquatable<Siege>
     {
         private Passager _passager;
         private char _lettre;
