@@ -9,7 +9,7 @@ namespace Bibliotheque
     /// <summary>
     /// Une rangée de l'habitacle
     /// </summary>
-    public class Rangee : Habitacle
+    public class Rangee
     {
         private List<Section> _sections;
         private string _classe;

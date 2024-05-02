@@ -9,7 +9,7 @@ namespace Bibliotheque
     /// <summary>
     /// Une section de la rangée
     /// </summary>
-    public class Section : Rangee, IComparable<Section>, IEquatable<Section>
+    public class Section : IComparable<Section>, IEquatable<Section>
     {
         #region Variables
 

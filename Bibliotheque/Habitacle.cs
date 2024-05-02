@@ -9,7 +9,7 @@ namespace Bibliotheque
     /// <summary>
     /// Un habitacle d'un avion
     /// </summary>
-    public class Habitacle : Avion
+    public class Habitacle
     {
         private List<Range> _rangees;
     }
